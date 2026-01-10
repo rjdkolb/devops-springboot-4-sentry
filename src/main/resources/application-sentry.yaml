@@ -1,4 +1,5 @@
 # Nondynamic settings for Sentry
 sentry:
+  send-default-pii: true
   logs:
     enabled: true
