@@ -1,0 +1,4 @@
+# Nondynamic settings for Sentry
+sentry:
+  logs:
+    enabled: true

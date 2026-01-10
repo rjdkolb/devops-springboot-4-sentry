@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: classpath:/db/changelog/db.changelog-1.0.sql
+      relativeToChangelogFile: false
