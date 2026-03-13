@@ -29,7 +29,7 @@
 	<properties>
 		<java.version>25</java.version>
 		<sentry.version>8.35.0</sentry.version>
-		<springdoc.version>2.6.0</springdoc.version>
+		<springdoc.version>3.0.2</springdoc.version>
 	</properties>
 	<dependencies>
 		<dependency>
