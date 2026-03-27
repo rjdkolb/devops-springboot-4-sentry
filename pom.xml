@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>25</java.version>
-		<sentry.version>8.37.0</sentry.version>
+		<sentry.version>8.37.1</sentry.version>
 		<springdoc.version>3.0.2</springdoc.version>
 	</properties>
 	<dependencies>
